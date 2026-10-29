@@ -1,0 +1,48 @@
+# virtual environment
+venv/
+env/
+.venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Output data
+data/processed/
+data/moisture/
+
+# notebooks 
+01_*.ipynb
+
+02_*.ipynb
+03_*.ipynb
+04_*.ipynb
+05_*.ipynb
+06_*.ipynb
+07_*.ipynb
+08_*.ipynb
+09_*.ipynb
+10_*.ipynb
+
+# python cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# IDE settings
+.vscode/
+
+# Logs
+logs/
+*.log
+
+# Environment variables
+.env    
+
+#OS files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# models directory
+models/
